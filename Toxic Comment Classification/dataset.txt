@@ -1,1 +1,2 @@
-
+The dataset "train.csv" was taken from Kaggle: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+Follow the link and download "train.csv".
