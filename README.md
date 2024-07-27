@@ -1,2 +1,2 @@
 # Python
-The repository contains all my important python work.
+The repository contains all semester #6 python work.
